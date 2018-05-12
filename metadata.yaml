@@ -1,0 +1,32 @@
+_repo: Galat-a--13-Primeira-e-Segunda-Parte_21780
+_version: 0.1.0
+alternative_title: "Galateia\r\nÉcloga\r\nPrimeira e Segunda Parte"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carvalho, António Joaquim de
+    alias: Carvalho, Antonio Joaquim de
+    deathdate: 1817
+    gutenberg_agent_id: '24883'
+    url: http://www.gutenberg.org/2009/agents/24883
+description: "Lisboa:\r\nNa offic. de Simão Thaddeo Ferreira\r\n1801"
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21780'
+language: pt
+language_note: This ebook uses 19th century spelling
+production_note: "Produced by Pedro Saborano. Para comentários à transcrição\r\nvisite\
+  \ http://pt-scriba.blogspot.com (This book was\r\nproduced from scanned images of\
+  \ public domain material\r\nfrom Google Book Search)"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: "Galatéa\r\nEgloga\r\nPrimeira e Segunda Parte"
+url: http://www.gutenberg.org/ebooks/21780
